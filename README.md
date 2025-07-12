@@ -79,7 +79,9 @@ todo-app/
 You can easily deploy this project using:
 
 - [GitHub Pages](https://pages.github.com/)
-
+- [Netlify](https://www.netlify.com/)
+- [Vercel](https://vercel.com/)
+- Local file hosting
 ---
 
 ## 📜 License
